@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+*.swp
+.DS_Store
+/.localenv/
+/.ipynb_checkpoints/
+core.*
+runs/
+results/
+runs/
+.vector_cache/
